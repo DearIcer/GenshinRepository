@@ -9,6 +9,12 @@ Because the previous repository has been archived by the owner and unmaintained,
 
 Original Repository - [GenshinRepository By RapDodge](https://github.com/rapdodge/GenshinRepository)
 
+## Genshin Daily Fetch Automation (Genshin-Repository-List)
+
+I've created a new repository to automate fetching data and saving files daily. The repository retrieves data from the same API URL as this repository. You can visit my repository at the following link. Thanks for visiting my repository.
+
+Genshin Daily Fetch Automation Repository - [Genshin-Repository-List](https://github.com/JRSKelvin/Genshin-Repository-List)
+
 API response
 ````markdown
 {
