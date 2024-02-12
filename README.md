@@ -15,6 +15,12 @@ I've created a new repository to automate fetching data and saving files daily. 
 
 Genshin Daily Fetch Automation Repository - [Genshin-Repository-List](https://github.com/JRSKelvin/Genshin-Repository-List)
 
+## Other Game Repository
+
+I've also created several repositories from the same or different developers. You can visit my repository at the following link.
+
+Honkai: Star Rail Repository - [Honkai-Star-Rail-Repository](https://github.com/JRSKelvin/Honkai-Star-Rail-Repository)
+
 API response
 ````markdown
 {
