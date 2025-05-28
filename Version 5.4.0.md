@@ -1,17 +1,6 @@
 # Version 5.4.0
 
 ###### Pre-Install Section
-[Game Data from 5.3.0 to 5.4.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/game_5.3.0_5.4.0_hdiff_vlIbVzLpRIFHZcym.zip)
-
-[Audio CN from 5.3.0 to 5.4.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_zh-cn_5.3.0_5.4.0_hdiff_juLXEdublvTHwOPL.zip)
-
-[Audio EN from 5.3.0 to 5.4.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_en-us_5.3.0_5.4.0_hdiff_rUjNMXDApbBRrLtB.zip)
-
-[Audio JP from 5.3.0 to 5.4.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_ja-jp_5.3.0_5.4.0_hdiff_GYvLQJtloHewyhAd.zip)
-
-[Audio KR from 5.3.0 to 5.4.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_ko-kr_5.3.0_5.4.0_hdiff_bHMaFGHIWezvVoGL.zip)
-
-###### 5.2.0 to 5.4.0
 [Game Data from 5.2.0 to 5.4.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/game_5.2.0_5.4.0_hdiff_nhbCdqtBokgjnsTo.zip)
 
 [Audio CN from 5.2.0 to 5.4.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_zh-cn_5.2.0_5.4.0_hdiff_qvUdBSGRwBauLmne.zip)
@@ -20,9 +9,19 @@
 
 [Audio JP from 5.2.0 to 5.4.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_ja-jp_5.2.0_5.4.0_hdiff_JaDVQGJbqLlQwrjN.zip)
 
-[Audio KR from 5.2.0 to 5.4.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_ko-kr_5.2.0_5.4.0_hdiff_glXIlRCjmGCRUFmu.zip)
+[Audio KO from 5.2.0 to 5.4.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_ko-kr_5.2.0_5.4.0_hdiff_glXIlRCjmGCRUFmu.zip)
 
 <hr>
+
+[Game Data from 5.3.0 to 5.4.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/game_5.3.0_5.4.0_hdiff_vlIbVzLpRIFHZcym.zip)
+
+[Audio CN from 5.3.0 to 5.4.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_zh-cn_5.3.0_5.4.0_hdiff_juLXEdublvTHwOPL.zip)
+
+[Audio EN from 5.3.0 to 5.4.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_en-us_5.3.0_5.4.0_hdiff_rUjNMXDApbBRrLtB.zip)
+
+[Audio JP from 5.3.0 to 5.4.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_ja-jp_5.3.0_5.4.0_hdiff_GYvLQJtloHewyhAd.zip)
+
+[Audio KO from 5.3.0 to 5.4.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/audio_ko-kr_5.3.0_5.4.0_hdiff_bHMaFGHIWezvVoGL.zip)
 
 ###### Full Install Section
 [Game Data 5.4.0 Part 1](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20250125201352_EiPmYLKVptWspsHf/GenshinImpact_5.4.0.zip.001)
@@ -47,4 +46,4 @@
 
 [Audio JP 5.4.0](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20250125201352_EiPmYLKVptWspsHf/Audio_Japanese_5.4.0.zip)
 
-[Audio KR 5.4.0](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20250125201352_EiPmYLKVptWspsHf/Audio_Korean_5.4.0.zip)
+[Audio KO 5.4.0](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20250125201352_EiPmYLKVptWspsHf/Audio_Korean_5.4.0.zip)
